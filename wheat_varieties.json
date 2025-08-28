@@ -1,0 +1,402 @@
+[
+  {
+    "value": "Alizze",
+    "label": "Alizze"
+  },
+  {
+    "value": "Ambassador",
+    "label": "Ambassador"
+  },
+  {
+    "value": "Aurelia",
+    "label": "Aurelia"
+  },
+  {
+    "value": "Aviron",
+    "label": "Aviron"
+  },
+  {
+    "value": "Azurit",
+    "label": "Azurit"
+  },
+  {
+    "value": "Ballad",
+    "label": "Ballad"
+  },
+  {
+    "value": "Bender",
+    "label": "Bender"
+  },
+  {
+    "value": "Blazenka",
+    "label": "Blazenka"
+  },
+  {
+    "value": "Boris",
+    "label": "Boris"
+  },
+  {
+    "value": "Calumet",
+    "label": "Calumet"
+  },
+  {
+    "value": "Crocodile",
+    "label": "Crocodile"
+  },
+  {
+    "value": "DK Expectation",
+    "label": "DK Expectation"
+  },
+  {
+    "value": "DK Expansion",
+    "label": "DK Expansion"
+  },
+  {
+    "value": "DK Excited",
+    "label": "DK Excited"
+  },
+  {
+    "value": "DK Extremus",
+    "label": "DK Extremus"
+  },
+  {
+    "value": "DK Imove CL",
+    "label": "DK Imove CL"
+  },
+  {
+    "value": "DK Immortal CL",
+    "label": "DK Immortal CL"
+  },
+  {
+    "value": "DK InV1035",
+    "label": "DK InV1035"
+  },
+  {
+    "value": "DK InV1166CL",
+    "label": "DK InV1166CL"
+  },
+  {
+    "value": "DK InV1188",
+    "label": "DK InV1188"
+  },
+  {
+    "value": "DK InV1199",
+    "label": "DK InV1199"
+  },
+  {
+    "value": "DK InV1266CL",
+    "label": "DK InV1266CL"
+  },
+  {
+    "value": "DK InV1276TF",
+    "label": "DK InV1276TF"
+  },
+  {
+    "value": "DK InV1320",
+    "label": "DK InV1320"
+  },
+  {
+    "value": "DK Imprint CL",
+    "label": "DK Imprint CL"
+  },
+  {
+    "value": "DK Immortal",
+    "label": "DK Immortal"
+  },
+  {
+    "value": "ES Alegria",
+    "label": "ES Alegria"
+  },
+  {
+    "value": "ES Ballet",
+    "label": "ES Ballet"
+  },
+  {
+    "value": "ES Imperio",
+    "label": "ES Imperio"
+  },
+  {
+    "value": "ES Mambo",
+    "label": "ES Mambo"
+  },
+  {
+    "value": "ES Mentor",
+    "label": "ES Mentor"
+  },
+  {
+    "value": "ES Muzzical",
+    "label": "ES Muzzical"
+  },
+  {
+    "value": "ES Opera",
+    "label": "ES Opera"
+  },
+  {
+    "value": "ES Palatino",
+    "label": "ES Palatino"
+  },
+  {
+    "value": "ES Samba",
+    "label": "ES Samba"
+  },
+  {
+    "value": "ES Secret",
+    "label": "ES Secret"
+  },
+  {
+    "value": "ES Vito",
+    "label": "ES Vito"
+  },
+  {
+    "value": "Elgar",
+    "label": "Elgar"
+  },
+  {
+    "value": "Fencer",
+    "label": "Fencer"
+  },
+  {
+    "value": "Felicia",
+    "label": "Felicia"
+  },
+  {
+    "value": "Hannover",
+    "label": "Hannover"
+  },
+  {
+    "value": "Harry",
+    "label": "Harry"
+  },
+  {
+    "value": "Hattrick",
+    "label": "Hattrick"
+  },
+  {
+    "value": "Incentive",
+    "label": "Incentive"
+  },
+  {
+    "value": "KWS Campus",
+    "label": "KWS Campus"
+  },
+  {
+    "value": "KWS Carter",
+    "label": "KWS Carter"
+  },
+  {
+    "value": "KWS Croozer",
+    "label": "KWS Croozer"
+  },
+  {
+    "value": "KWS Expose",
+    "label": "KWS Expose"
+  },
+  {
+    "value": "KWS Granos",
+    "label": "KWS Granos"
+  },
+  {
+    "value": "KWS Honesty",
+    "label": "KWS Honesty"
+  },
+  {
+    "value": "KWS Keitum",
+    "label": "KWS Keitum"
+  },
+  {
+    "value": "KWS Serafino",
+    "label": "KWS Serafino"
+  },
+  {
+    "value": "KWS Silverstone",
+    "label": "KWS Silverstone"
+  },
+  {
+    "value": "KWS Sirkka",
+    "label": "KWS Sirkka"
+  },
+  {
+    "value": "KWS Temptation",
+    "label": "KWS Temptation"
+  },
+  {
+    "value": "KWS Trasim",
+    "label": "KWS Trasim"
+  },
+  {
+    "value": "LG Aviron",
+    "label": "LG Aviron"
+  },
+  {
+    "value": "LG Anarion",
+    "label": "LG Anarion"
+  },
+  {
+    "value": "LG Architect",
+    "label": "LG Architect"
+  },
+  {
+    "value": "LG Auckland",
+    "label": "LG Auckland"
+  },
+  {
+    "value": "LG Auckland CL",
+    "label": "LG Auckland CL"
+  },
+  {
+    "value": "LG Auckland TF",
+    "label": "LG Auckland TF"
+  },
+  {
+    "value": "LG Barbutus",
+    "label": "LG Barbutus"
+  },
+  {
+    "value": "LG Blackbird",
+    "label": "LG Blackbird"
+  },
+  {
+    "value": "LG Caravelle",
+    "label": "LG Caravelle"
+  },
+  {
+    "value": "LG Constructor",
+    "label": "LG Constructor"
+  },
+  {
+    "value": "LG Dartmoor",
+    "label": "LG Dartmoor"
+  },
+  {
+    "value": "LG Defender",
+    "label": "LG Defender"
+  },
+  {
+    "value": "LG Fuego",
+    "label": "LG Fuego"
+  },
+  {
+    "value": "LG Funktion",
+    "label": "LG Funktion"
+  },
+  {
+    "value": "LG Illuminate",
+    "label": "LG Illuminate"
+  },
+  {
+    "value": "LG Imprint",
+    "label": "LG Imprint"
+  },
+  {
+    "value": "LG Initial",
+    "label": "LG Initial"
+  },
+  {
+    "value": "LG Memphis",
+    "label": "LG Memphis"
+  },
+  {
+    "value": "LG Pizzazz",
+    "label": "LG Pizzazz"
+  },
+  {
+    "value": "LG Pro",
+    "label": "LG Pro"
+  },
+  {
+    "value": "LG Raptor",
+    "label": "LG Raptor"
+  },
+  {
+    "value": "LG Scorpion",
+    "label": "LG Scorpion"
+  },
+  {
+    "value": "LG Tempest",
+    "label": "LG Tempest"
+  },
+  {
+    "value": "LG Typhoon",
+    "label": "LG Typhoon"
+  },
+  {
+    "value": "LG Varoxx",
+    "label": "LG Varoxx"
+  },
+  {
+    "value": "LG Vencedor",
+    "label": "LG Vencedor"
+  },
+  {
+    "value": "LG Violin",
+    "label": "LG Violin"
+  },
+  {
+    "value": "LG Watson",
+    "label": "LG Watson"
+  },
+  {
+    "value": "LG Wildcat",
+    "label": "LG Wildcat"
+  },
+  {
+    "value": "LG Zurich",
+    "label": "LG Zurich"
+  },
+  {
+    "value": "Marquis",
+    "label": "Marquis"
+  },
+  {
+    "value": "Nikita",
+    "label": "Nikita"
+  },
+  {
+    "value": "Nizza CL",
+    "label": "Nizza CL"
+  },
+  {
+    "value": "North",
+    "label": "North"
+  },
+  {
+    "value": "Nure",
+    "label": "Nure"
+  },
+  {
+    "value": "Octavia",
+    "label": "Octavia"
+  },
+  {
+    "value": "Picto",
+    "label": "Picto"
+  },
+  {
+    "value": "Plurax CL",
+    "label": "Plurax CL"
+  },
+  {
+    "value": "PT303",
+    "label": "PT303"
+  },
+  {
+    "value": "PT275",
+    "label": "PT275"
+  },
+  {
+    "value": "PT284",
+    "label": "PT284"
+  },
+  {
+    "value": "PT303",
+    "label": "PT303"
+  },
+  {
+    "value": "PT275",
+    "label": "PT275"
+  },
+  {
+    "value": "PT284",
+    "label": "PT284"
+  }
+]
