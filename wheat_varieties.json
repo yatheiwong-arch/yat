@@ -1,6 +1,10 @@
 [
-{ "value": "5603Hr", "label": "5603Hr" },
-{ "value": "Abbot", "label": "Abbot" },
+{ "value": "5603Hr",
+  "label": "5603Hr" 
+},
+{ "value": "Abbot",
+  "label": "Abbot" 
+},
 { "value": "AC Barrie", "label": "AC Barrie" },
 { "value": "Ads75", "label": "Ads75" },
 { "value": "Alabaster", "label": "Alabaster" },
